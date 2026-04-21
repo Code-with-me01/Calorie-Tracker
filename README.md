@@ -59,36 +59,6 @@ CalorieAI includes a built-in auth system (stored in `localStorage`):
 
 ---
 
-## ⚡ Getting Started
-
-### 1. Clone or Download
-
-```bash
-git clone https://github.com/your-username/calorieai.git
-```
-
-Or simply download `CalorieAI.html` directly.
-
-### 2. Open in Browser
-
-No build step, no dependencies. Just open the file:
-
-```bash
-open CalorieAI.html
-```
-
-### 3. Add Your OpenAI API Key
-
-Paste your OpenAI API key into the input field in the top-right corner of the app. The status indicator will turn green when the key is recognized.
-
-> Get your API key at [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
-
-### 4. Create an Account & Start Tracking
-
-Sign up with any email and password to unlock the full app. Fill in your profile for personalized macro and calorie targets.
-
----
-
 ## 📁 Project Structure
 
 This project is intentionally a **single self-contained HTML file**:
